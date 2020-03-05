@@ -1,0 +1,21 @@
+.Header{
+    border-bottom: 1px solid #EEE;
+    margin-bottom: 25px;
+}
+.Header nav ul li{
+    list-style: none;
+    display: inline-block;
+    padding: 10px;
+}
+
+.Header nav ul li button{
+    background: #000;
+    border: none;
+    color: #FFF;
+    padding: 7px 15px;
+    position: absolute;
+    right: 0px;
+    top: 75px;
+    width: 100px;
+    cursor: pointer;
+}
